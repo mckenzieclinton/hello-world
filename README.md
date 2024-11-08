@@ -1,2 +1,2 @@
 # hello-world
-I am a database developer. ilove working with systems.
+I am a database developer. i love working with systems.
